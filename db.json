@@ -37,7 +37,7 @@
             "time": "07:00-21:30",
             "type": "All-Day."
         }],
-        engagement :  [{
+        "engagement" :  [{
             "des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
             "name": "Platinum",
             "price": "8,490",
@@ -62,7 +62,7 @@
             "time": "07:00-12:00",
             "type": "Engagement"
         }],
-        noon: [{
+        "noon": [{
             "des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
             "name": "Platinum",
             "price": "11,490",
@@ -87,7 +87,7 @@
             "time": "07:00-12:00",
             "type": "Noon"
         }],
-        reception:  [{
+        "reception":  [{
             "des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
             "name": "Platinum",
             "price": "8,490",
