@@ -1,117 +1,115 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-     "allday": [{
-            "des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
-            "name": "Platinum",
-            "note": "Break required, (12:00-16:00)",
-            "price": "14,490",
-            "time": "07:00-21:30",
-            "type": "All-Day."
-        }, {
-            "des": ["2 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
-            "name": "Medium",
-            "note": "Break required, (12:00-16:00)",
-            "price": "26,490",
-            "time": "07:00-21:30",
-            "type": "All-Day."
-        }, {
-            "des": ["2 X Photographers.", "1 X Flash Light.", "1 Year drive space.", "2 X SpotLights.", "1 X Videographer."],
-            "name": "Stunt",
-            "note": "Break required, (12:00-16:00)",
-            "price": "36,490",
-            "time": "07:00-21:30",
-            "type": "All-Day."
-        }, {
-            "des": ["2 X Videographers.", "All Video stuff.", "1 Year drive space.", "2 X SpotLights."],
-            "name": "Video",
-            "note": "Break required, (12:00-16:00)",
-            "price": "18,000",
-            "time": "07:00-21:30",
-            "type": "All-Day."
-        }],
-        "engagement" :  [{
-            "des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
-            "name": "Platinum",
-            "price": "8,490",
-            "time": "07:00-12:00",
-            "type": "Engagement"
-        }, {
-            "des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
-            "name": "Medium",
-            "price": "12,490",
-            "time": "07:00-12:00",
-            "type": "Engagement"
-        }, {
-            "des": ["2 X Photographers.", "1 X Flash Light.", "1 Year drive space.", "2 X SpotLights.", "1 X Videographer."],
-            "name": "Stunt",
-            "price": "20,490",
-            "time": "07:00-12:00",
-            "type": "Engagement"
-        }, {
-            "des": ["2 X Videographers.", "All Video stuff.", "1 Year drive space.", "2 X SpotLights."],
-            "name": "Video",
-            "price": "18,000",
-            "time": "07:00-12:00",
-            "type": "Engagement"
-        }],
-        "noon": [{
-            "des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
-            "name": "Platinum",
-            "price": "11,490",
-            "time": "07:00-14:00",
-            "type": "Noon"
-        }, {
-            "des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
-            "name": "Medium",
-            "price": "18,490",
-            "time": "07:00-14:00",
-            "type": "Noon"
-        }, {
-            "des": ["2 X Photographers.", "1 X Flash Light.", "1 Year drive space.", "2 X SpotLights.", "1 X Videographer."],
-            "name": "Stunt",
-            "price": "23,490",
-            "time": "07:00-14:00",
-            "type": "Noon"
-        }, {
-            "des": ["2 X Videographers.", "All Video stuff.", "1 Year drive space.", "2 X SpotLights."],
-            "name": "Video",
-            "price": "18,000",
-            "time": "07:00-12:00",
-            "type": "Noon"
-        }],
-        "reception":  [{
-            "des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
-            "name": "Platinum",
-            "price": "8,490",
-            "time": "16:00-21:30",
-            "type": "Reception."
-        }, {
-            "des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
-            "name": "Medium",
-            "price": "14,490",
-            "time": "16:00-21:30",
-            "type": "Reception."
-        }, {
-            "des": ["2 X Photographers.", "1 X Flash Light.", "1 Year drive space.", "2 X SpotLights.", "1 X Videographer."],
-            "name": "Stunt",
-            "price": "22,490",
-            "time": "16:00-21:30",
-            "type": "Reception."
-        }, {
-            "des": ["2 X Videographers.", "All Video stuff.", "1 Year drive space.", "2 X SpotLights."],
-            "name": "Video",
-            "price": "18,000",
-            "time": "16:00-21:30",
-            "type": "Reception."
-        }]
-}
+	"posts": [{
+		"id": 1,
+		"title": "hello"
+	}],
+	"profile": {
+		"name": "typicode"
+	},
+	"allday": [{
+		"des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
+		"name": "Platinum",
+		"note": "Break required, (12:00-16:00)",
+		"price": "14,490",
+		"time": "07:00-21:30",
+		"type": "All-Day."
+	}, {
+		"des": ["2 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
+		"name": "Medium",
+		"note": "Break required, (12:00-16:00)",
+		"price": "26,490",
+		"time": "07:00-21:30",
+		"type": "All-Day."
+	}, {
+		"des": ["2 X Photographers.", "1 X Flash Light.", "1 Year drive space.", "2 X SpotLights.", "1 X Videographer."],
+		"name": "Stunt",
+		"note": "Break required, (12:00-16:00)",
+		"price": "36,490",
+		"time": "07:00-21:30",
+		"type": "All-Day."
+	}, {
+		"des": ["2 X Videographers.", "All Video stuff.", "1 Year drive space.", "2 X SpotLights."],
+		"name": "Video",
+		"note": "Break required, (12:00-16:00)",
+		"price": "18,000",
+		"time": "07:00-21:30",
+		"type": "All-Day."
+	}],
+	"engagement": [{
+		"des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
+		"name": "Platinum",
+		"price": "8,490",
+		"time": "07:00-12:00",
+		"type": "Engagement"
+	}, {
+		"des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
+		"name": "Medium",
+		"price": "12,490",
+		"time": "07:00-12:00",
+		"type": "Engagement"
+	}, {
+		"des": ["2 X Photographers.", "1 X Flash Light.", "1 Year drive space.", "2 X SpotLights.", "1 X Videographer."],
+		"name": "Stunt",
+		"price": "20,490",
+		"time": "07:00-12:00",
+		"type": "Engagement"
+	}, {
+		"des": ["2 X Videographers.", "All Video stuff.", "1 Year drive space.", "2 X SpotLights."],
+		"name": "Video",
+		"price": "18,000",
+		"time": "07:00-12:00",
+		"type": "Engagement"
+	}],
+	"noon": [{
+		"des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
+		"name": "Platinum",
+		"price": "11,490",
+		"time": "07:00-14:00",
+		"type": "Noon"
+	}, {
+		"des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
+		"name": "Medium",
+		"price": "18,490",
+		"time": "07:00-14:00",
+		"type": "Noon"
+	}, {
+		"des": ["2 X Photographers.", "1 X Flash Light.", "1 Year drive space.", "2 X SpotLights.", "1 X Videographer."],
+		"name": "Stunt",
+		"price": "23,490",
+		"time": "07:00-14:00",
+		"type": "Noon"
+	}, {
+		"des": ["2 X Videographers.", "All Video stuff.", "1 Year drive space.", "2 X SpotLights."],
+		"name": "Video",
+		"price": "18,000",
+		"time": "07:00-12:00",
+		"type": "Noon"
+	}],
+	"reception": [{
+		"des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
+		"name": "Platinum",
+		"price": "8,490",
+		"time": "16:00-21:30",
+		"type": "Reception."
+	}, {
+		"des": ["1 X Photographer.", "1 X Flash Light", "1 Year drive space.", "2 X SpotLights."],
+		"name": "Medium",
+		"price": "14,490",
+		"time": "16:00-21:30",
+		"type": "Reception."
+	}, {
+		"des": ["2 X Photographers.", "1 X Flash Light.", "1 Year drive space.", "2 X SpotLights.", "1 X Videographer."],
+		"name": "Stunt",
+		"price": "22,490",
+		"time": "16:00-21:30",
+		"type": "Reception."
+	}, {
+		"des": ["2 X Videographers.", "All Video stuff.", "1 Year drive space.", "2 X SpotLights."],
+		"name": "Video",
+		"price": "18,000",
+		"time": "16:00-21:30",
+		"type": "Reception."
+	}]
+
 
 }
